@@ -36,9 +36,6 @@ We know that the data in blockchain is immutable i.e once the data is written in
 ![image 2](./images/3.png)
 Figure 3: An image showing locally decrypted data retrieved from the blockchain in encrypted form.
 
-# ACKNOWLEDGEMENT
-
-This research was supported by Government Engineering College, Raipur and We are thankful to our guide Asst. Prof. Priyanka Sahu who provided expertise that greatly assisted the research.
 
 # REFERENCES
 
